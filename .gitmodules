@@ -1,3 +1,6 @@
 [submodule "gitsubmodulea"]
 	path = gitsubmodulea
 	url = https://github.com/enigmaCoder/gitsubmodulea.git
+[submodule "mymodulea"]
+	path = mymodulea
+	url = /mymodulea
