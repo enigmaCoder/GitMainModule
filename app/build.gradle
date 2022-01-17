@@ -36,7 +36,8 @@ android {
 }
 
 printSomething{
-    submodules.submoduleNames = "Yolo"
+    submodules.workingDirectory = "/Users/satyamsarkar/AndroidStudioProjects/GitMainModule"
+    submodules.submoduleNames = ["https://github.com/enigmaCoder/suba"]
     println "Hello"
 }
 

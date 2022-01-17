@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/gitsubmodulea" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gitsubmodulec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mymodulea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mymoduleb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mymodulec" vcs="Git" />
   </component>
 </project>
